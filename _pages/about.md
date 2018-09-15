@@ -1,6 +1,7 @@
 ---
 layout: content
-title: About
+title: Note
+permalink: /note/
 ---
 Hi, I'm Johnny and I live in the Shire. Thanks for visiting my site.
 
