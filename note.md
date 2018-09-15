@@ -5,5 +5,5 @@ permalink: /note/
 ---
 Thanks for visiting my site.
 ----
-Ref: https://deadbeef.me/paper-jekyll-theme/
+[Author](https://deadbeef.me/paper-jekyll-theme/)
 
