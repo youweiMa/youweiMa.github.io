@@ -1,14 +1,8 @@
 # Site settings
-title: "Paper Jekyll Theme"
+title: "Prairie"
 description: > 
-  Write a description of your website here.
+  日记本
 
-author: Johnny Appleseed
-email: johnny@appleseed.com
-twitter_username: _HairForceOne
-github_username: mkchoi212
-
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://youweiMa.github.io" # the base hostname & protocol for your site
 
 google_analytics_id: UA-1111111111-1
