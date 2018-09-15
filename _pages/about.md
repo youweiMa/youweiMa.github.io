@@ -4,6 +4,6 @@ title: Note
 permalink: /note/
 ---
 Thanks for visiting my site.
-Ref: https://deadbeef.me/paper-jekyll-theme/
+<br>Ref: https://deadbeef.me/paper-jekyll-theme/
 ----
 
