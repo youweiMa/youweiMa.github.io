@@ -3,8 +3,6 @@ layout: post
 title: "Hello World!"
 description: "Test post"
 date: 1970-01-01
-tags: test
-comments: true
 ---
 # Hello World!
 
