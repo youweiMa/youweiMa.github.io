@@ -4,7 +4,7 @@ title: "Hello World!"
 description: "Test post"
 date: 1970-01-01
 tags: test
-comments: false
+comments: true
 ---
 # Hello World!
 
