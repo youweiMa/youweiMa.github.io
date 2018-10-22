@@ -3,8 +3,8 @@ layout: post
 title: "Sincerely---TRUE TVsize 歌词中文"
 description: 《紫罗兰永恒花园》OP的歌词中文个人翻译
 date: 2018-08-31
-tag: lyrics
-tag: translation
+tag1: lyrics
+tag2: translation
 ---
 我非常喜欢这首歌，作品也喜欢。既然喜欢一首歌就会认真地体会歌词吧？这是一首日文歌，我目前的水平仅能把日文汉字的平假名标注好，然后看着歌词把它唱下来；在网上找到的中文翻译，对我理解歌词的意思帮助很大。于是我在多篇前人翻译的基础上借自己对故事的理解重新修改了一下中文翻译版本。共改写了两次，并尝试扩充为故事情境一次。仅包含TV Size的内容。
 
