@@ -57,7 +57,7 @@ tag: [translation, Fate]
  就算是冒牌的身体  
  也是用剑做出来的！
 
-<p align="center" height="100" width="80" title="b站截图"><img src="https://youweiMa.github.io/assets/guicaifanyi.jpg"></p>
+<p align="center" title="b站截图"><img src="https://youweiMa.github.io/assets/guicaifanyi.jpg"></p>
  
 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈——什么啊这是——
 
@@ -80,7 +80,7 @@ tag: [translation, Fate]
 
 >此身为剑，血流熔火，百炼铸身，心澄如璃  
  纵横沙场，未尝败绩，岿然而立，千刃克敌  
- 无谓胜败，无知始终，独矗寒夜，披雪斩尘  
+ 无谓胜败，不知始终，独矗寒夜，披雪斩尘  
  无患得失，毋论所归，器无所指，心无所恃  
  此焰未熄，此路未已，此身如一，无限剑制
  
