@@ -57,7 +57,7 @@ tag: [translation, Fate]
  就算是冒牌的身体  
  也是用剑做出来的！
 
-<p align="center" title="b站截图"><img src="https://youweiMa.github.io/assets/guicaifanyi.jpg"></p>
+<p align="center" height="100" width="80" title="b站截图"><img src="https://youweiMa.github.io/assets/guicaifanyi.jpg"></p>
  
 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈——什么啊这是——
 
