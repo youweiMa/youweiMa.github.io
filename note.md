@@ -1,10 +1,9 @@
 ---
 layout: content
-title: Note
+title: Copy Right
 permalink: /note/
 ---
 Thanks for visiting my site.<br>
-
-[Author's page](https://deadbeef.me/paper-jekyll-theme/)
-
+It is based on github repository, developed in the framework provided by [mkchoi212](https://deadbeef.me/paper-jekyll-theme/). <br>
+The contents are my personal works, including diary, work log, essay and other writings. 
 ---
