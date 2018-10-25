@@ -62,7 +62,7 @@ tag: [translation, Fate]
 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈——什么啊这是——
 
 [此处也有图]
-<p align="center"><img src="./assets/xueshitie.jpg"></p>
+<p align="center"><img src="youweiMa.github.io/assets/xueshitie.jpg"></p>
 
 仔细看了一下，连语法顺序都和日文的一样，有点太草率了吧？不要以为这个类似于魔法咏唱词我们就不看了啊喂。事实上被读者承认的中译版在剧场版上映之前就有了，你们要是太忙的话直接查一下也好啊哈哈哈——
 
