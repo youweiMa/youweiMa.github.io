@@ -11,5 +11,4 @@ It is based on github repository, developed in the framework provided by [mkchoi
 The contents are my personal works, including diary, work log, essay and other writings. 
 
 ---
-
-！[Princess Mononoke](https://youweiMa.github.io/assets/youling_gongzhu-003.jpg)
+<p align="center"><img name="Princess Mononoke" src="https://youweiMa.github.io/assets/youling_gongzhu-003.jpg"></p>
