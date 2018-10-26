@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Copy Right
+title: Note
 permalink: /note/
 ---
 
@@ -11,3 +11,5 @@ It is based on github repository, developed in the framework provided by [mkchoi
 The contents are my personal works, including diary, work log, essay and other writings. 
 
 ---
+
+！[Princess Mononoke](https://youweima.github.com/assets/youling_gongzhu-003.jpg)
