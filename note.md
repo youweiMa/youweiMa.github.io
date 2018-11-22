@@ -1,7 +1,7 @@
 ---
 layout: content
 title: Note
-permalink: /Note/
+permalink: /note/
 ---
 
 Thanks for visiting my site.<br>
