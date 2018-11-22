@@ -8,7 +8,7 @@ Thanks for visiting my site.<br>
 
 It is based on github repository, developed in the framework provided by [mkchoi212](https://deadbeef.me/paper-jekyll-theme/). <br>
 
-The contents are my personal writings. 
+The contents are my personal works. 
 
 ---
 <p align="center"><img title="Princess Mononoke" src="https://youweiMa.github.io/assets/youling_gongzhu-003.jpg"></p>
