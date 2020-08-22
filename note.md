@@ -8,7 +8,7 @@ Thanks for visiting my site.<br>
 
 It is based on github repository, developed in the framework provided by [mkchoi212](https://deadbeef.me/paper-jekyll-theme/). <br>
 
-Here are kind of doodles. 
+Here are just some doodles. 
 
 ---
 <p align="center">Instinct of Mater and Wild
