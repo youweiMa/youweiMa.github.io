@@ -5,7 +5,7 @@ description: >
 author: UV
 url: "https://youweiMa.github.io" # the base hostname & protocol for your site
 
-google_analytics_id: UA-1111111111-1
+google_analytics_id:
 disqus_id:
 
 # Build settings
