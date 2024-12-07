@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sincerely---TRUE TVsize 歌词中文"
-description: 《紫罗兰永恒花园》OP的歌词中文个人翻译
+description: "《紫罗兰永恒花园》OP的歌词中文个人翻译"
 date: 2018-08-31
 tag: [lyrics, translation]
 ---
